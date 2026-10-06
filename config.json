@@ -1,0 +1,27 @@
+{
+  "shopName": "DeRose Beauty Salon",
+  "tagline": "Hair, color, and makeup on East 2nd Street, Kensington",
+  "phone": "(718) 854-4311",
+  "address": "329 E 2nd St, Brooklyn, NY 11218",
+  "hours": "Mon–Sat 8:30 AM – 7 PM · Sun 9 AM – 5 PM",
+  "photoUrl": "hero.jpg",
+  "services": [
+    {
+      "name": "Hair",
+      "description": "Cuts, color, highlights, and styling."
+    },
+    {
+      "name": "Hair removal",
+      "description": "Waxing and threading."
+    },
+    {
+      "name": "Makeup",
+      "description": "Makeup for events. Call to book."
+    }
+  ],
+  "email": "troupe.javelin-7w@icloud.com",
+  "demoId": "derose-beauty-salon-kensington",
+  "ownerName": "us",
+  "ownerPhone": "(908) 286-8650",
+  "ownerEmail": "troupe.javelin-7w@icloud.com"
+}
